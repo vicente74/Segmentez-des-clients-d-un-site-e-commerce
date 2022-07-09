@@ -4,7 +4,7 @@ Projet n°4 de la formation Ingénieur Machine Learning d'OpenClassrooms: https:
 
 ## Présentation du projet:
 
-Vous êtes consultant pour ["Olist"]('https://olist.com/pt-br/'), une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
+Vous êtes consultant pour ["Olist"](https://olist.com/pt-br/), une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
 Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 
@@ -14,7 +14,7 @@ Vous devrez fournir à l’équipe marketing une description actionable de votre
 
 **Les données:**
 
-Pour cette mission, Olist vous fournit une ["base de données"]('https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce') anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
+Pour cette mission, Olist vous fournit une ["base de données"](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
 
 **Votre mission:**
 
